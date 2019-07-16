@@ -1,5 +1,5 @@
 def monopoly
-	monopoly = {}
+	monopoly = {java is better}
 
 end
 
